@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ui_dev_practice_terez/static/css/main.4c1b5f28.chunk.css",
+    "main.js": "/ui_dev_practice_terez/static/js/main.565a1a8d.chunk.js",
+    "main.js.map": "/ui_dev_practice_terez/static/js/main.565a1a8d.chunk.js.map",
+    "runtime-main.js": "/ui_dev_practice_terez/static/js/runtime-main.9b904b7e.js",
+    "runtime-main.js.map": "/ui_dev_practice_terez/static/js/runtime-main.9b904b7e.js.map",
+    "static/js/2.088ae4bd.chunk.js": "/ui_dev_practice_terez/static/js/2.088ae4bd.chunk.js",
+    "static/js/2.088ae4bd.chunk.js.map": "/ui_dev_practice_terez/static/js/2.088ae4bd.chunk.js.map",
+    "static/js/3.77013d85.chunk.js": "/ui_dev_practice_terez/static/js/3.77013d85.chunk.js",
+    "static/js/3.77013d85.chunk.js.map": "/ui_dev_practice_terez/static/js/3.77013d85.chunk.js.map",
+    "index.html": "/ui_dev_practice_terez/index.html",
+    "static/css/main.4c1b5f28.chunk.css.map": "/ui_dev_practice_terez/static/css/main.4c1b5f28.chunk.css.map",
+    "static/js/2.088ae4bd.chunk.js.LICENSE.txt": "/ui_dev_practice_terez/static/js/2.088ae4bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b904b7e.js",
+    "static/js/2.088ae4bd.chunk.js",
+    "static/css/main.4c1b5f28.chunk.css",
+    "static/js/main.565a1a8d.chunk.js"
+  ]
+}
